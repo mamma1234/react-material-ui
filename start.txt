@@ -1,0 +1,6 @@
+npx create-react-app react-material-ui
+cd react-material-ui
+npm install @material-ui/core
+npm install contentful
+npm start
+http://localhost:3000/
