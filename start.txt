@@ -4,3 +4,5 @@ npm install @material-ui/core
 npm install contentful
 npm start
 http://localhost:3000/
+
+npm install @material-ui/icons
